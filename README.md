@@ -1,2 +1,1 @@
-# vosvs
-Project for Operating systems module
+# A hangman game for Arduino
